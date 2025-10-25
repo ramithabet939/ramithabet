@@ -9,7 +9,7 @@
 ### 🔧 Technologies & Tools
 - Languages: C, C++, Python, VHDL, ARM Assembly, Java, MatLab  
 - Hardware: FPGA (Nexys A7), Microcontrollers (Arduino, STM32)  
-- Tools: ModelSim, Vivado, GDB, Git, VS Code, Eclipse
+- Tools: ModelSim, Vivado, GDB, Git, VS Code, Eclipse, PyCharm
 
 ---
 
